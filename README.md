@@ -1,6 +1,6 @@
 # BACON
 
-<b>B</b>in<b>A</b>ry <b>C</b>lassificati<b>O</b>n <b>N</b>etwork is a simple project inspired to the popular L-layer network devoloped as exercize during the famous Andrew Ng's course <i>"Neural Networks and Deep Learning"</i>. <br>
+<b>B</b>in<b>A</b>ry <b>C</b>lassificati<b>O</b>n <b>N</b>etwork is a simple project inspired to the popular L-layer network developed as exercize during the famous Andrew Ng's course <i>"Neural Networks and Deep Learning"</i>. <br>
 As the name says, the network can be used to perform binary classification. It exploits the RELU activation function for the first L-1 layers, while the sigmoid function is used in the latest neuron.
 ### Implementation
 I tried to make it more object oriented than the original implementation, incapsulating the forward pass, the cost computation, the backward pass and the weights update in a class called "model".
