@@ -5,5 +5,5 @@ As the name says, the network can be used to perform binary classification. It e
 ### Implementation
 I tried to make it more object oriented than the original implementation, incapsulating the forward pass, the cost computation, the backward pass and the weights update in a class called "model".
 ### Experimentation
-I tested some topology of network on two dataset, which you can find in the datasets folder: Catvnocat and Pima Indians Diabetes.
+I tested some topology of network on two datasets, which you can find in the <i>"datasets"</i> folder: Catvnocat and Pima Indians Diabetes.
 I got 80% test accuracy for the first dataset and 71% test accuracy for the second dataset. Obviously the results are not so exciting but this is only an exercize. Tuning the hyperparameters and normalizing the data could help in achieving better performance.
