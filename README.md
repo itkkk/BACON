@@ -1,6 +1,6 @@
 # BACON
 
-BinAry ClassificatiOn Network is a simple project inspired to the popular L-layer network devoloped as exercize during the famous Andrew Ng's course "Neural Networks and Deep Learning". <br>
+<b>B</b>in<b>A</b>ry <b>C</b>lassificati<b>O</b>n <b>N</b>etwork is a simple project inspired to the popular L-layer network devoloped as exercize during the famous Andrew Ng's course <i>"Neural Networks and Deep Learning"</i>. <br>
 As the name says, the nework could be used to perform binary classification. It exploits the relu activation function for the first L-1 layers, while the sigmoid function is used in the latest neuron.
 <br><br>
 I tried to make it more object oriented, incapsulating all the principal methods in a class called "model".
